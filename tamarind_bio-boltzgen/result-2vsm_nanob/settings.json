@@ -1,0 +1,16 @@
+{
+    "targetFile": "constantinos.c98@gmail.com/2VSM_chainA.pdb",
+    "type": "boltzgen",
+    "binderType": "nanobody",
+    "targetChains": [
+        "A"
+    ],
+    "bindingSite": {
+        "A": "297,298,299,300,301,302,311,312,313,314,315"
+    },
+    "lengthRange": "50,150",
+    "cyclic": false,
+    "numDesigns": 10,
+    "numBatches": 1,
+    "budget": 2
+}

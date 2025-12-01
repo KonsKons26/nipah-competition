@@ -1,0 +1,13 @@
+entities:
+- file:
+    path: target.pdb
+    include:
+    - chain:
+        id: A
+    binding_types:
+    - chain:
+        id: A
+        binding: 297..302,311..315
+- protein:
+    sequence: 50..150
+    id: A
