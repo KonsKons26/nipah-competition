@@ -245,13 +245,18 @@ Then I would normally run a docking simulation with the peptide that should sit 
 
 Seems good enough. No time to do more.
 
-__CLUSTALW 2.1 of my final seqs__
+
+## Final sequences
+
+As per the competitions instructions I placed my selected binders in [this .fasta file](binders.fasta).
 
 - __rb1:__ rational design binder 1
 - __rb2:__ rational design binder 2
 - __rb3:__ rational design binder 3
 - __bg1:__ BoltzGen design 1
 - __bg2:__ BoltzGen design 2
+
+__CLUSTALW 2.1 of my final seqs__
 
 ```
 rb1             VSQEELEKQLAPLGEYSKDGKDNRGKEQPYLWLGVPLSKSKDKEAVRAEASKRVGVEVGD
